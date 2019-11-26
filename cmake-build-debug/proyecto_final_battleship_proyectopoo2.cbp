@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/Juan Galvez/Desktop/GitHub Desktop/proyecto-final-battleship-proyectopoo2/Board.cpp">
+			<Option target="proyecto_final_battleship_proyectopoo2"/>
+		</Unit>
+		<Unit filename="/Users/Juan Galvez/Desktop/GitHub Desktop/proyecto-final-battleship-proyectopoo2/Board.h">
+			<Option target="proyecto_final_battleship_proyectopoo2"/>
+		</Unit>
+		<Unit filename="/Users/Juan Galvez/Desktop/GitHub Desktop/proyecto-final-battleship-proyectopoo2/Naves.cpp">
+			<Option target="proyecto_final_battleship_proyectopoo2"/>
+		</Unit>
 		<Unit filename="/Users/Juan Galvez/Desktop/GitHub Desktop/proyecto-final-battleship-proyectopoo2/main.cpp">
 			<Option target="proyecto_final_battleship_proyectopoo2"/>
 		</Unit>

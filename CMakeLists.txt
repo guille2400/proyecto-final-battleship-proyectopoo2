@@ -3,4 +3,4 @@ project(proyecto_final_battleship_proyectopoo2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(proyecto_final_battleship_proyectopoo2 main.cpp)
+add_executable(proyecto_final_battleship_proyectopoo2 main.cpp Naves.cpp Board.cpp)

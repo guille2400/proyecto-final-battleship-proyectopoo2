@@ -123,6 +123,60 @@ proyecto_final_battleship_proyectopoo2/fast:
 	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build
 .PHONY : proyecto_final_battleship_proyectopoo2/fast
 
+Board.o: Board.cpp.o
+
+.PHONY : Board.o
+
+# target to build an object file
+Board.cpp.o:
+	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Board.cpp.o
+.PHONY : Board.cpp.o
+
+Board.i: Board.cpp.i
+
+.PHONY : Board.i
+
+# target to preprocess a source file
+Board.cpp.i:
+	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Board.cpp.i
+.PHONY : Board.cpp.i
+
+Board.s: Board.cpp.s
+
+.PHONY : Board.s
+
+# target to generate assembly for a file
+Board.cpp.s:
+	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Board.cpp.s
+.PHONY : Board.cpp.s
+
+Naves.o: Naves.cpp.o
+
+.PHONY : Naves.o
+
+# target to build an object file
+Naves.cpp.o:
+	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Naves.cpp.o
+.PHONY : Naves.cpp.o
+
+Naves.i: Naves.cpp.i
+
+.PHONY : Naves.i
+
+# target to preprocess a source file
+Naves.cpp.i:
+	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Naves.cpp.i
+.PHONY : Naves.cpp.i
+
+Naves.s: Naves.cpp.s
+
+.PHONY : Naves.s
+
+# target to generate assembly for a file
+Naves.cpp.s:
+	$(MAKE) -f CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/build.make CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Naves.cpp.s
+.PHONY : Naves.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... proyecto_final_battleship_proyectopoo2"
+	@echo "... Board.o"
+	@echo "... Board.i"
+	@echo "... Board.s"
+	@echo "... Naves.o"
+	@echo "... Naves.i"
+	@echo "... Naves.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

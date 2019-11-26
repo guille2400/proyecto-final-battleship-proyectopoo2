@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/main.cpp.o"
+  "CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Naves.cpp.o"
+  "CMakeFiles/proyecto_final_battleship_proyectopoo2.dir/Board.cpp.o"
   "proyecto_final_battleship_proyectopoo2.pdb"
   "proyecto_final_battleship_proyectopoo2"
 )
