@@ -14,5 +14,9 @@ Los jugadores serán controlados por el programa, y seguirán una serie de pasos
 
 Conclusiones:
 
+1. Primer elemento de la lista
+   - Primer elemento de la lista anidado
+     - Segundo elemento de la lista anidado
+
 
 
