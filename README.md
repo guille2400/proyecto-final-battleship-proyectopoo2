@@ -5,18 +5,18 @@
 |Guillermo Sanchez||[]()
 
 -Obejtivo: 
-El siguiente programa consiste en la implementación del famoso juego Battleship.
+
+
+Conclusiones:
+
+1. Primer elemento de la lista
+   - El siguiente programa consiste en la implementación del famoso juego Battleship.
 Para ello, el programa seguirá las normas establecidas por el mismo, pero por otro lado, este
 generará archivos los cuáles serán leídos por un servidor y este generará archivos que serán leídos
 por nuestro programa haciendo así un bluque de lectura y escritura. Este, por medio de los archivos 
 contendrán una serie de condiciones que permitan el constante y buen funcionamiento de las partidas. 
 Los jugadores serán controlados por el programa, y seguirán una serie de pasos para asi saber cual es el ganador.
-
-Conclusiones:
-
-1. Primer elemento de la lista
-   - Primer elemento de la lista anidado
-     - Segundo elemento de la lista anidado
+     
 
 
 
